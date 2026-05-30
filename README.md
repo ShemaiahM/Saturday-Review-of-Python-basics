@@ -30,4 +30,7 @@ using float() we can change an integer(whole number) into float or using int() t
   - Just like in math, Multiplication/Division have the same priority, and Addition/Subtraction have the same priority. If Python sees both in a row, it solves them      from left to right.
 
   #### little tip
-  - if i ever want to write two lines of code on the same line i would use *;* so newAge = 100; print("Hello there i am " + str(newAge) + " years old!") :)
+  - If i or you, ever want to write two lines of code on the same line i would use *;* so newAge = 100; print("Hello there i am " + str(newAge) + " years old!") :)
+ 
+  ### Round up
+  - I enjoyed this week i will keep practing throught the weekend regardless, i want to get to know more aabout python and cfeat better and bigger thhings! Thank you for      reading!
