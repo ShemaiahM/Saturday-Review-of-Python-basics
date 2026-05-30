@@ -18,7 +18,17 @@ yourName = input("What's your name? ")
 print("well hi there " + yourName) #concatenation
 
 print(newName, " says hello")
-print(newName + "'s current age is ", currentAge, "years old")
+print(newName + "'s current age is ", str(currentAge), "years old")
+
+# str() int() and float()
+newNewAge = 33
+print("Im around "+ str(newNewAge)+ " years old")
+
+myHeight = 6
+print(float(myHeight))
+
+shoeSize = 11.5
+print(int(shoeSize))
 
 #simple arithmetic
 #PEMDAS
